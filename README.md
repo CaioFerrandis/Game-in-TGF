@@ -1,0 +1,1 @@
+This is a simple game made in a framework that I'm building alongside my friend. In it you just have to run away from some "asteroids", or you DIE. Also the health bar is a little buggy because we haven't implemented layering yet, but this is pretty cool, check it out!
